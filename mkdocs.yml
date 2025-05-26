@@ -12,6 +12,9 @@ theme:
     - content.action.edit
   custom_dir: overrides
 
+extra_css:
+  - stylesheets/extra.css
+
 plugins: []
 
 markdown_extensions:
