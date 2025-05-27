@@ -11,7 +11,7 @@ Das Skript:
 
 1. Stellt eine Verbindung zur API von contentdesk.io her.
 2. Liest strukturierte Inhalte aus (z. B. touristische Daten, Events, Orte, etc.).
-3. Exportiert diese Daten regelmäßig in zwei Formate:
+3. Exportiert diese Daten täglich in zwei Formate:
    - **JSON**: Für Entwickler und APIs.
    - **CSV**: Für klassische Tabellenanwendungen.
 4. Speichert die Dateien versioniert in diesem Git-Repository (Branch: `main`).
