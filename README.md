@@ -1,4 +1,4 @@
-# OpenData Exporter für ContentDesk.io
+# OpenData Exporter für contentdesk.io
 
 Dieses Repository enthält ein Python-Skript, das Inhalte aus der Plattform [contentdesk.io](https://www.contentdesk.io) automatisiert ausliest und diese als maschinenlesbare Formate (`.json`, `.csv`) speichert. Ziel ist es, diese Daten über eine öffentliche OpenData-Domain wie `https://opendata.domain.tld` Dritten zur Weiterverwendung zur Verfügung zu stellen.
 
