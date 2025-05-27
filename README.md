@@ -13,7 +13,7 @@ Das Skript:
    - **Vollständig gepflegt** sind (`completeness = 100`, Scope: `ecommerce`)
    - **Aktiviert** sind (`enabled = true`)
    - **Unter einer Creative-Commons-Lizenz** stehen:
-     - `cc0`, `ccby`, `ccbync`, `ccbynd`, `ccbysa`, `ccbyncnd`, `ccbyncsa`
+     - `cc0`, `ccby`, `ccbysa`
 3. Exportiert die gefilterten Daten täglich in zwei Formate:
    - **JSON**: Für Entwickler und APIs
    - **CSV**: Für klassische Tabellenanwendungen
