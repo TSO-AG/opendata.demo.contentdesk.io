@@ -1,0 +1,62 @@
+/* Hintergrundfarbe der gesamten Seite */
+body {
+  background-color: #f9f9f9;
+}
+
+/* Header*/
+.md-header, .md-header--shadow {
+  background-color: #5e63b6 !important;
+}
+
+/* Schriftart und -größe für den Hauptinhalt */
+.md-content, .markdown-body {
+  font-family: "Segoe UI", sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Navigation links */
+.md-nav__link {
+  color: #005999;
+}
+.md-nav__link:hover {
+  color: #0077cc;
+  text-decoration: underline;
+}
+
+/* Aktiver Navigationseintrag */
+.md-nav__item--active > .md-nav__link {
+  font-weight: bold;
+  color: #cc0000;
+}
+
+/* Überschriften */
+h1, h2, h3, h4, h5 {
+  font-weight: 600;
+  color: #003366;
+}
+/* Allgemeine Links im Text */
+a {
+  color: #005999;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #0077cc;
+  text-decoration: underline;
+}
+
+/* Footer*/
+.md-footer {
+  background-color: #dfe1f0 !important;
+  color: #5e63b6;
+}
+
+/* Code-Blöcke */
+code, pre {
+  background-color: #f0f0f0;
+  border-radius: 4px;
+  padding: 2px 4px;
+  font-family: Consolas, Monaco, monospace;
+}
