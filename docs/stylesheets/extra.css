@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5 {
 }
 /* Allgemeine Links im Text */
 a {
-  color: #005999;
+  color: #5e63b6;
   text-decoration: none;
   transition: color 0.3s ease;
 }
