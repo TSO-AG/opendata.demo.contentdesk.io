@@ -22,6 +22,7 @@ env:
   APP_WEBSITE: ${{ secrets.APP_WEBSITE }}
   APP_WEBSITE_API: ${{ secrets.APP_WEBSITE_API }}
   APP_ORGANIZATION_WEBSITE: ${{ secrets.APP_ORGANIZATION_WEBSITE }}
+  APP_EMAIL: ${{ secrets.APP_EMAIL }}
   APP_REGION: ${{ secrets.APP_REGION }}
 
 jobs:
@@ -50,6 +51,7 @@ jobs:
           echo "${{ secrets.APP_WEBSITE }}" > .env
           echo "${{ secrets.APP_WEBSITE_API }}" > .env
           echo "${{ secrets.APP_ORGANIZATION_WEBSITE }}" > .env
+          echo "${{ secrets.APP_EMAIL }}" > .env
           echo "${{ secrets.APP_REGION }}" > .env
       - uses: actions/cache@v4
         with:
