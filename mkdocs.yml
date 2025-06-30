@@ -14,11 +14,11 @@ theme:
   name: material
   logo: assets/logo.svg
   favicon: assets/favicon-180-180.png
+  icon:
+    repo: fontawesome/brands/git-alt
   features:
     - content.tabs.link
     - content.code.copy
-    - content.action.view
-    - content.action.edit
   custom_dir: overrides
 
 extra_css:
