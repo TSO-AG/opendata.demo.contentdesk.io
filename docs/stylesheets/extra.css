@@ -75,3 +75,9 @@ code, pre {
   padding: 2px 4px;
   font-family: Consolas, Monaco, monospace;
 }
+
+.md-copyright__highlight
+.md-copyright__highlight a {
+  color: #5e63b6;
+  text-decoration: none;
+}
