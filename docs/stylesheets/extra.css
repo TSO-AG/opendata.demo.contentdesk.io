@@ -68,6 +68,12 @@ a.md-nav_link:hover {
   color: #5e63b6;
 }
 
+div.md-copyright__highlight
+div.md-copyright__highlight a {
+  color: #5e63b6;
+  text-decoration: none;
+}
+
 /* Code-Blöcke */
 code, pre {
   background-color: #f0f0f0;
@@ -76,8 +82,3 @@ code, pre {
   font-family: Consolas, Monaco, monospace;
 }
 
-.md-copyright__highlight
-.md-copyright__highlight a {
-  color: #5e63b6;
-  text-decoration: none;
-}
