@@ -59,8 +59,8 @@ a.md-nav_link:hover {
 }
 
 /* Footer*/
-.md-footer {
-  background-color: #dfe1f0 !important;
+.md-footer-meta {
+  background-color: dfe1f0ff;
   color: #5e63b6;
 }
 
