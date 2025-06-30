@@ -17,10 +17,10 @@ body {
 
 /* Navigation links */
 .md-nav__link {
-  color: #005999;
+  color: #5e63b6;
 }
 .md-nav__link:hover {
-  color: #0077cc;
+  color: #5e63b6;
   text-decoration: underline;
 }
 
