@@ -1,6 +1,15 @@
 # Project information
 site_name: OpenData Portal - Demo Tourismus
 site_url: https://opendata.demo.contentdesk.io
+
+# Repository
+repo_name: TSO-AG/opendata.demo.contentdesk.io
+repo_url: https://github.com/TSO-AG/opendata.demo.contentdesk.io/
+
+# Copyright
+copyright: OpenData Portal made with <a href="https://contentdesk.io">CONTENTDESK.IO</a>
+
+# Configuration
 theme:
   name: material
   logo: assets/logo.svg
@@ -15,8 +24,10 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+# Plugins
 plugins: []
 
+# Extensions
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
@@ -41,5 +52,3 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-
-copyright: OpenData Portal made with <a href="https://contentdesk.io">CONTENTDESK.IO</a>

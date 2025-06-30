@@ -42,7 +42,18 @@ a {
   transition: color 0.3s ease;
 }
 
+a.md-nav_link {
+  color: #5e63b6;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
 a:hover {
+  color: #5e63b6;
+  text-decoration: underline;
+}
+
+a.md-nav_link:hover {
   color: #5e63b6;
   text-decoration: underline;
 }
