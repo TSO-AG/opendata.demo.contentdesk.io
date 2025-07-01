@@ -69,14 +69,9 @@ a.md-nav_link:hover {
 }
 
 .md-copyright,
-.md-copyright__highlight {
+.md-copyright__highlight,
+.md-copyright__highlight a {
   color: #5e63b6;
-}
-
-div.md-copyright__highlight
-div.md-copyright__highlight a {
-  color: #5e63b6 !important;
-  text-decoration: none;
 }
 
 /* Code-Blöcke */
