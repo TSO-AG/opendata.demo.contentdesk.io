@@ -79,6 +79,12 @@ html .md-footer-meta.md-typeset a {
   text-decoration: none;
 }
 
+html .md-footer-meta.md-typeset a:hover {
+  color: #5e63b6;
+  text-decoration: underline;
+}
+
+
 /* Code-Blöcke */
 code, pre {
   background-color: #f0f0f0;
