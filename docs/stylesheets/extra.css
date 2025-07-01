@@ -74,6 +74,11 @@ a.md-nav_link:hover {
   color: #5e63b6;
 }
 
+html .md-footer-meta.md-typeset a {
+  color: #5e63b6;
+  text-decoration: none;
+}
+
 /* Code-Blöcke */
 code, pre {
   background-color: #f0f0f0;
