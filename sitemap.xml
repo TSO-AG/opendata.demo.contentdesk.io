@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://opendata.demo.contentdesk.io/</loc>
+         <lastmod>2026-09-05</lastmod>
+    </url>
+    <url>
+         <loc>https://opendata.demo.contentdesk.io/CHANGELOG-2.0/</loc>
+         <lastmod>2026-09-05</lastmod>
+    </url>
+    <url>
+         <loc>https://opendata.demo.contentdesk.io/CHANGELOG-2.1/</loc>
+         <lastmod>2026-09-05</lastmod>
+    </url>
+    <url>
+         <loc>https://opendata.demo.contentdesk.io/changelog/</loc>
+         <lastmod>2026-09-05</lastmod>
+    </url>
+    <url>
+         <loc>https://opendata.demo.contentdesk.io/documentation/</loc>
+         <lastmod>2026-09-05</lastmod>
+    </url>
+</urlset>
